@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- CREDENCIALES APLICATIVO -->
+    <string name="app_name">MarketplaceApp</string>
+    <string name="developer">Kendra Chavarria</string>
+    <string name="desarrollo">Desarrollado por:</string>
+
+    <!--  Lista de categorías del Spinner -->
+    <string-array name="categorias_productos">
+        <item>Electrónica</item>
+        <item>Ropa</item>
+        <item>Hogar</item>
+        <item>Deportes</item>
+        <item>Accesorios</item>
+        <item>Otros</item>
+    </string-array>
+
+    <!-- lOGIN -->
+    <string name="titulo_login">Inicio Sesion</string>
+    <string name="lbl_usuario">Usuario</string>
+    <string name="txt_usuario">Ingrese Usuario</string>
+    <string name="lnl_password">Contraseña</string>
+    <string name="txt_password">Ingrese Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="lbl_crear_cuenta">No tienes cuenta?, Registrarse </string>
+
+
+</resources>
